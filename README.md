@@ -1,2 +1,5 @@
 # AnalizaBesed
 bepis
+
+
+bog pomagi
