@@ -8,4 +8,3 @@ bog pomagi
 - js
 - moj prjatu
 - njegov prjatu
-closes #1
