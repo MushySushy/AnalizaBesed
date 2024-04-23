@@ -5,6 +5,6 @@ bepis
 bog pomagi
 
 ## avtorji:
-- js
-- moj prjatu
-- njegov prjatu
+- ne js
+- ne moj prjatu
+- danny devito
